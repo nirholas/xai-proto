@@ -1,0 +1,14 @@
+{
+    "name": "xai-proto",
+    "description": "Public protobuf definitions for xAI's gRPC APIs",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/xai-proto",
+    "language": "Unknown",
+    "topics": [
+        "proto",
+        "nirholas",
+        "xai",
+        "open-source"
+    ]
+}

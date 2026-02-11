@@ -1,0 +1,16 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "xai-proto",
+    "name_for_model": "xai_proto",
+    "description_for_human": "Public protobuf definitions for xAI's gRPC APIs",
+    "description_for_model": "Public protobuf definitions for xAI's gRPC APIs",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "none"
+    },
+    "logo_url": "https://github.com/nirholas.png",
+    "contact_email": "nirholas@users.noreply.github.com",
+    "legal_info_url": "https://github.com/nirholas/xai-proto/blob/main/LICENSE"
+}

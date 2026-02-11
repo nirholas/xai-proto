@@ -1,0 +1,9 @@
+# xai-proto
+
+> Public protobuf definitions for xAI's gRPC APIs
+
+## Links
+
+- Repository: https://github.com/nirholas/xai-proto
+- Author: https://github.com/nirholas
+- Full documentation: https://raw.githubusercontent.com/nirholas/xai-proto/main/llms-full.txt

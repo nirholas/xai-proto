@@ -1,0 +1,18 @@
+# xai-proto
+
+> Public protobuf definitions for xAI's gRPC APIs
+
+## Overview
+
+xai-proto is an open-source project by nirholas. Public protobuf definitions for xAI's gRPC APIs
+
+## Repository
+
+- URL: https://github.com/nirholas/xai-proto
+- Language: Unknown
+- License: MIT
+- Author: nirholas
+
+## Contributing
+
+Contributions are welcome. See CONTRIBUTING.md for guidelines.

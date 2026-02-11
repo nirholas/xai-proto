@@ -189,3 +189,7 @@ Once the GitHub Release is created, update the `CHANGELOG.md` to reflect the rel
 4. **Create a Pull Request**: Open a pull request for this update. Once reviewed and approved, merge it into `main`.
 
 This ensures that the changelog remains up-to-date and provides users with a clear history of changes linked to specific releases.
+
+## Code of Conduct
+
+Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).

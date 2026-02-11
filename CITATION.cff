@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use xai-proto, please cite it as below."
+type: software
+title: "xai-proto"
+abstract: "Public protobuf definitions for xAI's gRPC APIs"
+authors:
+  - alias: nirholas
+    name: nirholas
+repository-code: "https://github.com/nirholas/xai-proto"
+url: "https://github.com/nirholas/xai-proto"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-11"
+keywords:
+  - open-source
+  - nirholas
